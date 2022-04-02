@@ -1,0 +1,8 @@
+@media only screen and (min-width: 469px){
+    footer{
+        gap: 20px;
+    }
+    footer ul a{
+        padding: 15px;
+    }
+}

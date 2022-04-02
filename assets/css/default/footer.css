@@ -1,0 +1,18 @@
+footer{
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+}
+
+footer ul{
+    display: flex;
+    list-style: none;
+}
+footer a{
+    text-decoration: none;
+    color: rgb(133, 83, 8);
+}
+footer img{
+    width: 100vw;
+}

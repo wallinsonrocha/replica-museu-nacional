@@ -1,0 +1,13 @@
+header{
+    background-color: rgb(51, 31, 2);
+    display: flex;
+}
+
+/* Navegação e Menu */
+    header li{
+        list-style: none;
+    }
+    header a{
+        text-decoration: none;
+        color: rgb(133, 83, 8);
+    }

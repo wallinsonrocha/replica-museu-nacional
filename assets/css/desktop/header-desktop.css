@@ -1,0 +1,13 @@
+@media only screen and (min-width: 469px){
+    header{
+        justify-content: space-between;
+        height: 120px;
+        padding: 2% 9%;
+    }
+    header ul{
+        display: flex;
+    }
+    header ul a{
+        padding: 1vw;
+    }
+}

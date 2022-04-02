@@ -1,0 +1,62 @@
+/* Section */
+    article h4 {
+        color: rgb(19, 173, 19);
+    }
+    article a{
+        color: rgb(133, 83, 8);
+        text-decoration: none;
+    }
+    article p{
+        text-align: justify;
+        margin-bottom: 20px;
+    }
+    iframe{
+        height: 250px;
+    }
+
+/* Aside */
+    aside{
+        background-color: rgb(241, 235, 229);   
+    }
+    aside form div{
+        margin: 10px;
+    }
+    aside h4{
+        color: rgb(133, 83, 8);
+    }
+    form input[type=button]{
+        width: 90%;
+        color: #fff;
+        font-size: 1.2em;
+        font-weight: bold;
+        background-color: rgb(131, 112, 83);
+        border: none;
+        padding: 15px;
+    }
+    form input[type=button]:hover{
+        background-color: rgb(51, 44, 32);
+    }
+    #form{
+        background-color: rgb(165, 158, 125);
+        padding: 20px;
+    }
+    #nmr-pessoas{
+        width: 50px;
+    }
+
+    /* Galeria de fotos */
+        #galeria-fotos{
+            display: flex;
+            flex-wrap: wrap;
+
+            justify-content: center;
+            align-items: center;
+        }
+        #galeria-fotos div{
+            background: url('../../1b-arquivos-necessarios-criando-topo/img/fundo-foto.png') no-repeat;
+            padding: 50px;
+        }
+        #galeria-fotos img{
+            width: 90px;
+            margin: -28px -32px;
+        }
