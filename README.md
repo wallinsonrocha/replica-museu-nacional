@@ -8,9 +8,13 @@ Infelismente, por motivos desconhecidos pro mim, a página não carrega o CSS no
 
 ## Desktop
 ![alt text](Foto1.png)
+
+
 ![alt text](Foto2.png)
 
 ## Mobile
 ![alt text](Foto3.png)
+
+
 ![alt text](Foto4.png)
 
